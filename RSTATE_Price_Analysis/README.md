@@ -10,3 +10,7 @@ The project is divided into three parts:
 2. Exploratory analysis of the dataset
 3. Implementation of a Machine Learning model for price prediction.
 
+
+### DATA
+
+https://drive.google.com/drive/u/1/folders/1y3VJkI7ZGzM6pgxvG3RxwQvEcfl-SHkn
